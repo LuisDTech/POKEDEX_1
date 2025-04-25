@@ -30,7 +30,7 @@
         },
         {
             "key": "Access-Control-Allow-Origin",
-            "value": "https://pokedex-chi-ashen.vercel.app/"
+            "value": "https://pokedex-1-psi.vercel.app/"
         },
         {
             "key": "Access-Control-Allow-Methods",
