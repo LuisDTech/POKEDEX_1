@@ -25,6 +25,10 @@
             "value": "geolocation=(), microphone=(), camera=()"
         },
         {
+            "key": "Strict-Transport-Security",
+            "value": "max-age=63072000; includeSubDomains; preload"
+        },
+        {
             "key": "Access-Control-Allow-Origin",
             "value": "https://pokedex-chi-ashen.vercel.app/"
         },
@@ -35,10 +39,6 @@
         {
             "key": "Access-Control-Allow-Headers",
             "value": "Content-Type, Authorization"
-        },
-        {
-            "key": "Cross-Origin-Embedder-Policy",
-            "value": "require-corp"
         },
         {
             "key": "Cross-Origin-Opener-Policy",
